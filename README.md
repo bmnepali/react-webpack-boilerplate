@@ -2,7 +2,7 @@
 
 [![Travis](https://img.shields.io/travis/KleoPetroff/react-webpack-boilerplate.svg?style=flat-square)](https://github.com/KleoPetroff/react-webpack-boilerplate) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-Simple and optimized React boilerplate. It includes: 
+Simple and optimized React boilerplate. It includes:
 
 - [x] React 15.3.0
 - [x] ECMAScript 6 and JSX support
@@ -13,7 +13,7 @@ Simple and optimized React boilerplate. It includes:
 - [x] Separate CSS stylesheets generation
 - [x] Automatic HTML generation
 - [x] Production Config
-- [x] Custom Babel Preset with Decorators, Class Properties, Rest/Spread operator support 
+- [x] Custom Babel Preset with Decorators, Class Properties, Rest/Spread operator support
 - [x] ES6 Linting
 - [x] Export Separate Vendor Files
 - [ ] Redux
@@ -42,7 +42,8 @@ You can export specific vendors in separate files and load them. All vendors sho
 
 ## Production code
 
-Run `npm run production`. The production-ready code will be located under `dist` folder.
+Run `npm run production`.
+The production-ready code will be located under `dist` folder.
 
 ## Licence
 
